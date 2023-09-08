@@ -1,0 +1,30 @@
+.title {
+    display: flex;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.dark_mode {
+    background-color: #172d3e00;
+    color: white;
+}
+
+.head_box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+.heading{
+    margin-right: 5px;
+}
+.sub_type{
+    color: #8b969f !important;
+
+}
+
+.container{
+    width: 85%;
+    margin: auto;
+    background-color: #172d3e;
+}
